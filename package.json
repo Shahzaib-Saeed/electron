@@ -22,8 +22,9 @@
       "icon": "icon.icns"
     },
     "linux": {
-      "icon": "icon.png"
-    }
+  "target": []
+}
+
   },
   "devDependencies": {
     "electron": "^28.0.0",
