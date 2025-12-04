@@ -18,9 +18,10 @@
       "icon": "icon.ico"
     },
     "mac": {
-      "target": "dmg",
-      "icon": "icon.icns"
-    },
+  "target": "dmg",
+  "icon": "icon.icns",
+  "arch": ["x64", "arm64"]
+},
     "linux": {
   "target": []
 }
